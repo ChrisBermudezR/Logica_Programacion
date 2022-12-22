@@ -1,2 +1,7 @@
-# Logica_Programacion
-Respuestas del libro de Lógica de Programación del autor omar Iván Trejos.
+# Libro: Lógica de programación
+
+Autor: Omar Iván Trejos Buriticá
+
+Ediciones de la U.
+
+
